@@ -27,7 +27,7 @@
 - [WP_Labs](https://github.com/momchiloiliev/WP) (Java)
 
 ### Shabloni za dizajn na kompjuterski interfejsi
-- [IA Labs](https://github.com/momchiloiliev/IA)
+- [IA Labs](https://github.com/momchiloiliev/IA) (Jquery)
 
 ### Softversko Inzenerstvo - SI
 - [SI_2022](https://github.com/momchiloiliev/SI_2022)

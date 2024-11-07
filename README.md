@@ -32,3 +32,6 @@
 ### Softversko Inzenerstvo - SI
 - [SI_2022](https://github.com/momchiloiliev/SI_2022)
 - [SI Lab 1](https://github.com/momchiloiliev/SI_2022_lab1_183248)
+
+### Voved vo naukata za podatocite - VNP
+- [VNP Labs](https://github.com/momchiloiliev/VNP) (Python)
